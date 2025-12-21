@@ -3,7 +3,7 @@
 -- A clean, responsive admin dashboard interface for management with a collapsible sidebar, dark mode toggle, & real-time room booking overview. 
 -- Built with Bootstrap and custom CSS for a modern, intuitive user experience.
 
-# Demo: 
+# Demo: https://coding-with-rohit-914.github.io/Admin-Dashboard/
 
 🌟 Features
 -- Responsive Sidebar Navigation - Collapsible menu with active state indicators
@@ -89,5 +89,6 @@ Real-time data integration
 Calendar-based booking system
 Financial reporting modules
 Multi-user role management
+
 
     A professional, ready-to-use admin dashboard interface for hotel and accommodation management systems.
